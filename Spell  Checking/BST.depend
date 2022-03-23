@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1527027261 source:d:\c projects\spellchecking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527169316 source:g:\datastructures1\project 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527169316 source:c:\users\boody\desktop\project 4 v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527189225 source:c:\users\boody\desktop\bst_[4912]_[4907]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
